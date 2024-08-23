@@ -1,6 +1,6 @@
 # LOW-ESP32 Hardware Monitor
 
-![LOW-ESP32 Hardware Monitor](https://user-images.githubusercontent.com/your-image-url.png)
+![LOW-ESP32 Hardware Monitor](https://github.com/oauramos/LOW-ESP32-HardwareMonitor/blob/main/doc/Group%203.png)
 
 ## Overview
 
